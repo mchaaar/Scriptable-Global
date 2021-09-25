@@ -16,4 +16,5 @@
 4. A new asset is created in your assets folder and you can now use it as you like.
 (keep in mind that you can create as many items as you want that way).
 
-More scripts like these ones will be uploaded over the weeks !
+
+**More scripts like these ones will be uploaded over the weeks !**
